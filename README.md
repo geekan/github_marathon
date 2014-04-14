@@ -11,3 +11,6 @@ Spirit: be stronger than yesterday.
 * [geekan](https://github.com/geekan)
 * [geekben](https://github.com/geekben)
 
+### The true mans
+
+None yet.
