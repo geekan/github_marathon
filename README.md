@@ -10,7 +10,8 @@ Spirit: be stronger than yesterday.
 
 * [geekan](https://github.com/geekan)
 * [geekben](https://github.com/geekben)
-* [skill_issue](https://github.com/duoduo369/skill_issues)
+* [duoduo369](https://github.com/duoduo369)
+* [zhao-ji](http://github.com/zhao-ji)
 
 ### The true mans
 
