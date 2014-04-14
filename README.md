@@ -1,9 +1,12 @@
-github_marathon
-===============
+## Github Marathon.
 
-Marathon for 365 days!
+Target: continuous commit 365 days.
 
-Here's the list of all marathoners.
+Rule: follow your heart. Be satisfied with yourself.
+
+Spirit: be stronger than yesterday.
+
+#### The list of all github-marathoners.
 
 * geekan
 * geekben
