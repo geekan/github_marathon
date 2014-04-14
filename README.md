@@ -8,6 +8,6 @@ Spirit: be stronger than yesterday.
 
 ### The list of all github-marathoners.
 
-* geekan
-* geekben
+* [geekan](https://github.com/geekan)
+* [geekben](https://github.com/geekben)
 
