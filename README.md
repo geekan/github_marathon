@@ -1,4 +1,10 @@
 github_marathon
 ===============
 
-marathon for 365 days!
+Marathon for 365 days!
+
+Here's the list of all marathoners.
+
+* geekan
+* geekben
+
