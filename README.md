@@ -14,6 +14,7 @@ Spirit: be stronger than yesterday.
 * [zhao-ji](http://github.com/zhao-ji)
 * [ZhaoZijie](https://github.com/ZhaoZijie)
 * [cloundpig](https://github.com/cloundpig)
+* [VgDog](https://github.com/VgDog)
 
 ### The true mans
 
