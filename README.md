@@ -19,6 +19,6 @@ Spirit: be stronger than yesterday.
 * [cheng404](https://github.com/cheng404)
 * [zexpp5](https://github.com/zexpp5)
 
-### The true mans
+### The list of true man.
 
 None yet.
