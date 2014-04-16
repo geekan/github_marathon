@@ -21,6 +21,7 @@ Spirit: be stronger than yesterday.
 * [go-code](https://github.com/go-code/)
 * [charlestang](https://github.com/charlestang)
 * [faceair](https://github.com/faceair)
+* [skyhacker2](https://github.com/skyhacker2)
 
 ### The list of true men.
 
