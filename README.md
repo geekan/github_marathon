@@ -8,9 +8,9 @@ Spirit: be stronger than yesterday.
 
 ### The list of all github-marathoners.
 
-|       | repo1 | repo2     | email    |
+|       | repo1 | streak    | email    |
 |-------|-------|-----------|----------|
-| [geekan](https://github.com/geekan) | [vine](https://github.com/vine-comment/vine) | 0-39g/day | 0-9g/day |
+| [geekan](https://github.com/geekan) | [vine](https://github.com/vine-comment/vine) |           |          |
 | [geekben](https://github.com/geekben) |       |           |          |
 | [duoduo369](https://github.com/duoduo369) |       |           |          |
 | [zhao-ji](http://github.com/zhao-ji) |       |           |          |
