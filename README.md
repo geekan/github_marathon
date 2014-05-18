@@ -25,6 +25,17 @@ Spirit: be stronger than yesterday.
 * [chemzqm](https://github.com/chemzqm)
 * [spacewander](https://github.com/spacewander)
 
+|       | repo1 | repo2     | email    |
+|-------|-------|-----------|----------|
+| [geekan](https://github.com/geekan) | [vine](https://github.com/vine-comment/vine) | 0-39g/day | 0-9g/day |
+| alcgp |       |           |          |
+| alcgp |       |           |          |
+| alcgp |       |           |          |
+| alcgp |       |           |          |
+| alcgp |       |           |          |
+| alcgp |       |           |          |
+| alcgp |       |           |          |
+
 ### The list of true men.
 
 None yet.
